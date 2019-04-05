@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [MainWindow.xaml](./CS/TreeListControlViewModel/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/TreeListControlViewModel/MainWindow.xaml.vb))
+* [MainWindow.xaml](./CS/TreeListControlViewModel/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/TreeListControlViewModel/MainWindow.xaml))
 * [MainWindow.xaml.cs](./CS/TreeListControlViewModel/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/TreeListControlViewModel/MainWindow.xaml.vb))
 * [TreeListControlDataModel.cs](./CS/TreeListControlViewModel/TreeListControlDataModel.cs) (VB: [TreeListControlDataModel.vb](./VB/TreeListControlViewModel/TreeListControlDataModel.vb))
 <!-- default file list end -->
